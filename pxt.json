@@ -2,7 +2,8 @@
     "name": "U5 Collaborative Coding Project - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "flappy boo ! githb ": "pub:09682-54216-49506-16405"
     },
     "files": [
         "main.blocks",
