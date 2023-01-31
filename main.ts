@@ -28,4 +28,4 @@ let boo2 = sprites.create(img`
     `, SpriteKind.Player)
 pause(100)
 boo2.setPosition(6, 9)
-tiles.setCurrentTilemap(tilemap`level1`)
+tiles.setCurrentTilemap(tilemap`level2`)
