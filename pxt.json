@@ -1,20 +1,23 @@
 {
-    "name": "U5 Collaborative Coding Project",
+    "name": "U5 Collaborative Coding Project - Copy - Copy",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "flappy boo ! githb ": "pub:09682-54216-49506-16405"
     },
     "files": [
         "main.blocks",
         "main.ts",
         "README.md",
-        "assets.json"
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
     ],
     "testFiles": [
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.11.37",
+        "target": "1.12.18",
         "targetId": "arcade"
     },
     "supportedTargets": [
